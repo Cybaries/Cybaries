@@ -2,7 +2,7 @@
 
 <!-- <img src="Resources/Image.jpg" width="300" height="300"> -->
 
-<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/cybaries/count.svg"/>
 </p>
