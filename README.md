@@ -1,6 +1,6 @@
 ### Hi there <img src="Resources/Wave.gif" alt="My Project GIF" width="40" height="40"> 
 
-<img src="Resources/Image.jpg>
+<!-- <img src="Resources/Image.jpg" width="300" height="300"> -->
 
 <p align="center"> 
   Visitor count<br>
