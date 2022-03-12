@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="Resources/giphy.webp" width="600" height="300"/>
   
   ### Hi there <img src="Resources/Wave.gif" alt="My Project GIF" width="40" height="40"> <br>
 I, ***Cybaries***, gladly welcome you all to my github. 😁<br>
